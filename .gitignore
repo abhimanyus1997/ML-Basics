@@ -62,3 +62,4 @@ misc-notebooks/tensorflow/logs/fit/20220923-030848/train/keras_embedding.ckpt-8.
 misc-notebooks/tensorflow/logs/fit/20220923-030848/train/keras_embedding.ckpt-9.data-00000-of-00001
 misc-notebooks/tensorflow/logs/fit/20220923-030848/train/keras_embedding.ckpt-9.index
 misc-notebooks/tensorflow/logs/fit/20220923-030848/validation/events.out.tfevents.1663882735.ANUBIS.3184.1.v2
+deeplearning/.ipynb_checkpoints/02-ANN-checkpoint.ipynb
