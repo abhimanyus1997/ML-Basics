@@ -63,7 +63,7 @@ Quick Links:
   - Stacking
   - Voting
 
--Deep Learning:
+-[Deep Learning](https://github.com/abhimanyus1997/ML-Basics/tree/main/deeplearning):
   - [Convolutional Neural Networks (CNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/03-CNN.ipynb)
   - [Recurrent Neural Networks (RNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/04-RNN.ipynb)
   - Long Short-Term Memory (LSTM)
