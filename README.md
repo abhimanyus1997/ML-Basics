@@ -3,7 +3,7 @@ A collection of jupyter notebooks for Basics of Machine Learning & Deep Learning
 
 Quick Links: 
 -Supervised Learning:
-  - Regression:
+  - [Regression](https://github.com/abhimanyus1997/ML-Basics/blob/31ab8dedf6293661e05440dc832e41d9de378bf8/02-Regression.ipynb):
     - Linear Regression 
     - Polynomial Regression
     - Support Vector Regression (SVR)
