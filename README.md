@@ -65,6 +65,7 @@ Quick Links: <br>
   - Voting
 
 -[Deep Learning](https://github.com/abhimanyus1997/ML-Basics/tree/main/deeplearning):
+  - [Artificial Neural Networks (ANN)](https://github.com/abhimanyus1997/ML-Basics/blob/796ffce3d99d5712981f8f94134bd74d20586c7f/deeplearning/02-ANN.ipynb)
   - [Convolutional Neural Networks (CNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/03-CNN.ipynb)
   - [Recurrent Neural Networks (RNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/04-RNN.ipynb)
   - Long Short-Term Memory (LSTM)
