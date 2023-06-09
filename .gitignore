@@ -65,3 +65,8 @@ misc-notebooks/tensorflow/logs/fit/20220923-030848/validation/events.out.tfevent
 deeplearning/.ipynb_checkpoints/02-ANN-checkpoint.ipynb
 deeplearning/.ipynb_checkpoints/04-RNN-checkpoint.ipynb
 misc-notebooks/opencv/saved/capturedGray.mp4
+misc-notebooks/opencv/coco.names
+misc-notebooks/opencv/deploy.prototxt
+misc-notebooks/opencv/res10_300x300_ssd_iter_140000_fp16.caffemodel
+misc-notebooks/opencv/yolov4.cfg
+misc-notebooks/opencv/yolov4.weights
