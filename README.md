@@ -4,6 +4,8 @@ A collection of jupyter notebooks for Basics of Machine Learning & Deep Learning
 Quick Links: <br>
 -[Data-Precessing using Python](https://github.com/abhimanyus1997/ML-Basics/blob/6464efa1c9d849e89ffec05230b86a5589b5b786/01-Data%20Preprocessing.ipynb)
 
+-[Pandas Basics](https://github.com/abhimanyus1997/ML-Basics/blob/cb25313af8ac3c78b0177b8094a18d165bef53c5/misc-notebooks/Pandas%20-%20Basics.ipynb)
+
 -[OpenCV Basics to Advanced](https://github.com/abhimanyus1997/ML-Basics/blob/e6601d445628761d0c8bd749f8e82ca80a04a024/misc-notebooks/opencv/01%20Basic%20OpenCV.ipynb)  
   
 -Supervised Learning:
