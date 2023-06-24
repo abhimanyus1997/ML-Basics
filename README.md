@@ -2,14 +2,14 @@
 A collection of jupyter notebooks for Basics of Machine Learning & Deep Learning with Python 
 <br><br>
 Quick Links: <br>
--[Data-Precessing using Python](https://github.com/abhimanyus1997/ML-Basics/blob/6464efa1c9d849e89ffec05230b86a5589b5b786/01-Data%20Preprocessing.ipynb)
+-[Data-Precessing using Python](https://github.com/abhimanyus1997/ML-Basics/blob/main/01-Data%20Preprocessing.ipynb)
 
--[Pandas Basics](https://github.com/abhimanyus1997/ML-Basics/blob/cb25313af8ac3c78b0177b8094a18d165bef53c5/misc-notebooks/Pandas%20-%20Basics.ipynb)
+-[Pandas Basics](https://github.com/abhimanyus1997/ML-Basics/blob/main/misc-notebooks/Pandas%20-%20Basics.ipynb)
 
--[OpenCV Basics to Advanced](https://github.com/abhimanyus1997/ML-Basics/blob/e6601d445628761d0c8bd749f8e82ca80a04a024/misc-notebooks/opencv/01%20Basic%20OpenCV.ipynb)  
+-[OpenCV Basics to Advanced](https://github.com/abhimanyus1997/ML-Basics/blob/main/misc-notebooks/opencv/01%20Basic%20OpenCV.ipynb)  
   
 -Supervised Learning:
-  - [Regression](https://github.com/abhimanyus1997/ML-Basics/blob/31ab8dedf6293661e05440dc832e41d9de378bf8/02-Regression.ipynb):
+  - [Regression](https://github.com/abhimanyus1997/ML-Basics/blob/main/02-Regression.ipynb):
     - Linear Regression 
     - Polynomial Regression
     - Support Vector Regression (SVR)
@@ -29,7 +29,7 @@ Quick Links: <br>
     - Neural Network Classification
 
 -Unsupervised Learning:
-  - [Clustering](https://github.com/abhimanyus1997/ML-Basics/blob/31ab8dedf6293661e05440dc832e41d9de378bf8/03-Unsupervised-Clustering.ipynb):
+  - [Clustering](https://github.com/abhimanyus1997/ML-Basics/blob/main/03-Unsupervised-Clustering.ipynb):
     - K-Means Clustering
     - Hierarchical Clustering
     - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
@@ -69,9 +69,9 @@ Quick Links: <br>
   - Voting
 
 -[Deep Learning](https://github.com/abhimanyus1997/ML-Basics/tree/main/deeplearning):
-  - [Artificial Neural Networks (ANN)](https://github.com/abhimanyus1997/ML-Basics/blob/796ffce3d99d5712981f8f94134bd74d20586c7f/deeplearning/02-ANN.ipynb)
-  - [Convolutional Neural Networks (CNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/03-CNN.ipynb)
-  - [Recurrent Neural Networks (RNN)](https://github.com/abhimanyus1997/ML-Basics/blob/524c659027a34bd246e1c598a4052b752de73788/deeplearning/04-RNN.ipynb)
+  - [Artificial Neural Networks (ANN)](https://github.com/abhimanyus1997/ML-Basics/blob/main/deeplearning/02-ANN.ipynb)
+  - [Convolutional Neural Networks (CNN)](https://github.com/abhimanyus1997/ML-Basics/blob/main/deeplearning/03-CNN.ipynb)
+  - [Recurrent Neural Networks (RNN)](https://github.com/abhimanyus1997/ML-Basics/blob/main/deeplearning/04-RNN.ipynb)
   - Long Short-Term Memory (LSTM)
   - Gated Recurrent Unit (GRU)
   - Transformers
