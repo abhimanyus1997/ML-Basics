@@ -70,3 +70,5 @@ misc-notebooks/opencv/deploy.prototxt
 misc-notebooks/opencv/res10_300x300_ssd_iter_140000_fp16.caffemodel
 misc-notebooks/opencv/yolov4.cfg
 misc-notebooks/opencv/yolov4.weights
+.virtual_documents/misc-notebooks/GAN.ipynb
+misc-notebooks/.ipynb_checkpoints/*
